@@ -5,7 +5,7 @@ https://system-ui.com
 
 > This specification is a work-in-progress. Please see the related [issue][] for more.
 
-[issue]: https://github.com/system-ui/theme-specification/issues
+[issue]: https://github.com/system-ui/theme-specification/issues/1
 
 The theme object is intended to be a general purpose format for storing design system style values and scales.
 The object itself is not coupled to any particular library's implementation and can be used
