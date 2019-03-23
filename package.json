@@ -1,0 +1,11 @@
+{
+  "name": "@system-ui/theme",
+  "version": "0.0.1",
+  "description": "A specification for defining theme objects for use with UI components",
+  "main": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/system-ui/theme-specification.git"
+  },
+  "license": "MIT"
+}
