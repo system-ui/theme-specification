@@ -153,4 +153,5 @@ Theme Key         | CSS Properties
 `radii`           | `border-radius`
 `shadows`         | `box-shadow`, `text-shadow`
 `zIndices`        | `z-index`
+`transitions`     | `transition`
 
