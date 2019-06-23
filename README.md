@@ -7,7 +7,7 @@ https://system-ui.com
 
 [issue]: https://github.com/system-ui/theme-specification/issues/1
 
-The theme object is intended to be a general purpose format for storing design system style values and scales.
+The theme object is intended to be a general purpose format for storing design system style values, scales, and/or design tokens.
 The object itself is not coupled to any particular library's implementation and can be used
 in places where sharing common style values in multiple parts of a code base is desirable.
 
@@ -155,3 +155,12 @@ Theme Key         | CSS Properties
 `zIndices`        | `z-index`
 `transitions`     | `transition`
 
+### Prior Art
+
+Prior art includes, but is not limited to the following. Please open an issue or pull request to help ensure this list is inclusive.
+
+- [Theo](https://github.com/salesforce-ux/theo)
+- [Style Dictionary](https://amzn.github.io/style-dictionary/)
+- [Lona](https://github.com/airbnb/Lona)
+- [Universal Design Tokens](https://github.com/universal-design-tokens/udt)
+- [Styled System](https://styled-system.com)
