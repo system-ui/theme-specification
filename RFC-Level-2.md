@@ -13,6 +13,7 @@ and the term *level 2* is this optional specification that builds on top of the 
 ## Schema
 
 While the overall object is still intended to be extensible, the following keys should be defined in a theme that conforms to level 2.
+Additional, user-defined keys may be added to each scale as needed.
 
 ```
 {
