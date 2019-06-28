@@ -1,8 +1,6 @@
 
 # RFC: Theme Specification: Level 2
 
-The base, level 1 theme specification defines the outer shape of a `theme` object.
-
 The current specification is intentionally limited in scope to allow for extension and interpretation for how typography, color, layout and other values are grouped and defined.
 This allows for some level of interoperability among the different libraries that adhere to the spec, but does not ensure interoperability of the theme objects themselves.
 
